@@ -1,0 +1,10 @@
+C:\DataAruco\CalculoMediaCsv\bin\Debug\CalculoMediaCsv.exe.config
+C:\DataAruco\CalculoMediaCsv\bin\Debug\CalculoMediaCsv.exe
+C:\DataAruco\CalculoMediaCsv\bin\Debug\CalculoMediaCsv.pdb
+C:\DataAruco\CalculoMediaCsv\obj\Debug\CalculoMediaCsv.csprojAssemblyReference.cache
+C:\DataAruco\CalculoMediaCsv\obj\Debug\CalculoMediaCsv.Properties.Resources.resources
+C:\DataAruco\CalculoMediaCsv\obj\Debug\CalculoMediaCsv.csproj.GenerateResource.cache
+C:\DataAruco\CalculoMediaCsv\obj\Debug\CalculoMediaCsv.csproj.CoreCompileInputs.cache
+C:\DataAruco\CalculoMediaCsv\obj\Debug\CalculoMediaCsv.exe
+C:\DataAruco\CalculoMediaCsv\obj\Debug\CalculoMediaCsv.pdb
+C:\DataAruco\CalculoMediaCsv\obj\Debug\CalculoMediaCsv.ProgramaCalculosEstatisticosAruco.resources
